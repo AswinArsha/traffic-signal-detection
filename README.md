@@ -33,6 +33,9 @@ To end the loop, the user can click on the "camera" window. This action triggers
 
 ### Potential Enhancements
 
-This code provides a solid foundation for traffic signal detection applications. It can serve as a starting point for more advanced projects related to traffic management and autonomous vehicles. It's important to note that proper lighting conditions and clear visibility of the traffic signals are crucial for accurate detection and recognition.
+This code provides a solid foundation for traffic signal detection applications. It can serve as a starting point for more advanced projects related to traffic management and autonomous vehicles. 
+
+#### Note 
+It's important that proper lighting conditions and clear visibility of the traffic signals are crucial for accurate detection and recognition.
 
 Feel free to build upon and improve this code to suit your specific requirements and use cases.
